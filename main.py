@@ -23,4 +23,4 @@ async def brew(ctx, arg):
 
 
 
-bot.run("MTE4OTAzNTk1OTk2MzExMTU3NA.GeFshf.6i40vPo9Ia3CyIhAB5hY3kXQ3F3uG3O8nFFQ90")
+bot.run("[#insert token here#]")

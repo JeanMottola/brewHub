@@ -22,5 +22,5 @@ async def brew(ctx, arg):
             await ctx.send(name)
 
 
-
+# Do not forget to remove token before pushing
 bot.run("[#insert token here#]")
